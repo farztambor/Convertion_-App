@@ -1,0 +1,144 @@
+body{
+    background:#1C1C1C;
+}
+
+h1{
+    position: absolute;
+    width: 448.4px;
+    height: 38px;
+    left: 30px;
+    top: 0x;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 38px;
+    /* identical to box height, or 173% */
+    
+    text-align: center;
+    letter-spacing: -0.05em;
+    
+    color: #FFFFFF;
+    
+}
+h2{
+    position: absolute;
+    width: 211px;
+    height: 51.23px;
+    left: 140px;
+    top: 50px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 97.5723px;
+    line-height: 24px;
+    /* or 25% */
+    
+    text-align: center;
+    
+    color: #FFFFFF;
+    
+color: #FFFFFF;
+
+}
+
+#div1-el{
+    position: absolute;
+    width: 500px;
+    height: 400px;
+    left: 420px;
+    top: 20px;
+    
+    background: linear-gradient(246.26deg, #585DFE 0%, #FB3796 100%);
+    
+}
+#div2-el{
+    position: absolute;
+    width: 500px;
+    height:350px;
+    left: 420px;
+    top: 220px;
+    background: #FBF7EE;
+}
+#headp-el1{
+
+    position: absolute;
+    width: 100%;
+    height: 25px;
+    top: 0px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 20px;
+    text-align: center;
+    color: #1A1921;   
+}
+#feet-el{
+    position: absolute;
+    width: 346px;
+    height: 25px;
+    left:70px;
+    top: 40px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 20px;
+    text-align: center;
+    color: #4E4E4E;
+    }
+#headp-el2{
+    position: absolute;
+    width: 100%;
+    height: 25px;
+    top: 100px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 20px;
+    text-align: center;
+    color: #1A1921;   
+}
+#gallons-el{
+    position: absolute;
+    width: 346px;
+    left:70px;
+    top: 140px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+ 
+    text-align: center;
+    color: #4E4E4E;
+    }
+#headp-el3{
+    position: absolute;
+    width: 100%;
+    height: 25px;
+    top: 200px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    text-align: center;
+    color: #1A1921;   
+}
+#pounds-el{
+    position: absolute;
+    width: 346px;
+    height: 25px;
+    left:70px;
+    top: 240px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 20px;
+    text-align: center;
+    color: #4E4E4E;
+    }
