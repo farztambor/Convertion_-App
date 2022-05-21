@@ -22,26 +22,37 @@ h1{
     color: #FFFFFF;
     
 }
-h2{
+input{
     position: absolute;
     width: 211px;
     height: 51.23px;
     left: 140px;
-    top: 50px;
-    
+    top: 90px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 800;
-    font-size: 97.5723px;
+    font-size: 50px;
     line-height: 24px;
-    /* or 25% */
-    
+    background: linear-gradient(246.26deg, #585DFE 0%, #FB3796 100%); ;
     text-align: center;
-    
     color: #FFFFFF;
-    
-color: #FFFFFF;
-
+    border-radius:10px;
+    padding: 20px;
+}
+button{
+    position: absolute;
+    width: 100px;
+    height: 40px;
+    border-radius:5px;
+    border: none;
+    left: 190px;
+    top: 150px;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 24px;
+    background: linear-gradient(246.26deg, #585DFE 0%, #FB3796 100%); ;
+    text-align: center;
+    color: #FFFFFF;
 }
 
 #div1-el{
